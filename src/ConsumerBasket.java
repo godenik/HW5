@@ -36,6 +36,6 @@ public class ConsumerBasket {
             }
         }
         System.out.println("Итого сумма: " + total + " руб");
-        System.out.println("Программа завершина");
+        System.out.println("Программа завершена");
     }
 }
